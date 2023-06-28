@@ -1,0 +1,3 @@
+git remote add origin https://github.com/zxc1563/165sad.git
+git branch -M main
+git push -u origin main
